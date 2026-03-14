@@ -1,0 +1,5 @@
+{
+  "name": "FocusFlow",
+  "description": "A daily productivity tracker to set goals, track progress, and stay focused with reminders.",
+  "requestFramePermissions": ["notifications"]
+}
